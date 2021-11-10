@@ -1,0 +1,16 @@
+C:\Users\estua\source\repos\ActividadesCursoCSharp\N1L3A1\bin\Debug\net6.0\N1L3A1.exe
+C:\Users\estua\source\repos\ActividadesCursoCSharp\N1L3A1\bin\Debug\net6.0\N1L3A1.deps.json
+C:\Users\estua\source\repos\ActividadesCursoCSharp\N1L3A1\bin\Debug\net6.0\N1L3A1.runtimeconfig.json
+C:\Users\estua\source\repos\ActividadesCursoCSharp\N1L3A1\bin\Debug\net6.0\N1L3A1.dll
+C:\Users\estua\source\repos\ActividadesCursoCSharp\N1L3A1\bin\Debug\net6.0\ref\N1L3A1.dll
+C:\Users\estua\source\repos\ActividadesCursoCSharp\N1L3A1\bin\Debug\net6.0\N1L3A1.pdb
+C:\Users\estua\source\repos\ActividadesCursoCSharp\N1L3A1\obj\Debug\net6.0\N1L3A1.GlobalUsings.g.cs
+C:\Users\estua\source\repos\ActividadesCursoCSharp\N1L3A1\obj\Debug\net6.0\N1L3A1.csproj.AssemblyReference.cache
+C:\Users\estua\source\repos\ActividadesCursoCSharp\N1L3A1\obj\Debug\net6.0\N1L3A1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estua\source\repos\ActividadesCursoCSharp\N1L3A1\obj\Debug\net6.0\N1L3A1.AssemblyInfoInputs.cache
+C:\Users\estua\source\repos\ActividadesCursoCSharp\N1L3A1\obj\Debug\net6.0\N1L3A1.AssemblyInfo.cs
+C:\Users\estua\source\repos\ActividadesCursoCSharp\N1L3A1\obj\Debug\net6.0\N1L3A1.csproj.CoreCompileInputs.cache
+C:\Users\estua\source\repos\ActividadesCursoCSharp\N1L3A1\obj\Debug\net6.0\N1L3A1.dll
+C:\Users\estua\source\repos\ActividadesCursoCSharp\N1L3A1\obj\Debug\net6.0\ref\N1L3A1.dll
+C:\Users\estua\source\repos\ActividadesCursoCSharp\N1L3A1\obj\Debug\net6.0\N1L3A1.pdb
+C:\Users\estua\source\repos\ActividadesCursoCSharp\N1L3A1\obj\Debug\net6.0\N1L3A1.genruntimeconfig.cache
