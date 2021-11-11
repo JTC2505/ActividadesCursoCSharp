@@ -1,0 +1,9 @@
+C:\Users\estua\source\repos\ActividadesCursoCSharp\N2L1A1\bin\Debug\N2L1A1.exe.config
+C:\Users\estua\source\repos\ActividadesCursoCSharp\N2L1A1\bin\Debug\N2L1A1.exe
+C:\Users\estua\source\repos\ActividadesCursoCSharp\N2L1A1\bin\Debug\N2L1A1.pdb
+C:\Users\estua\source\repos\ActividadesCursoCSharp\N2L1A1\obj\Debug\N2L1A1.csproj.SuggestedBindingRedirects.cache
+C:\Users\estua\source\repos\ActividadesCursoCSharp\N2L1A1\obj\Debug\N2L1A1.Properties.Resources.resources
+C:\Users\estua\source\repos\ActividadesCursoCSharp\N2L1A1\obj\Debug\N2L1A1.csproj.GenerateResource.cache
+C:\Users\estua\source\repos\ActividadesCursoCSharp\N2L1A1\obj\Debug\N2L1A1.csproj.CoreCompileInputs.cache
+C:\Users\estua\source\repos\ActividadesCursoCSharp\N2L1A1\obj\Debug\N2L1A1.exe
+C:\Users\estua\source\repos\ActividadesCursoCSharp\N2L1A1\obj\Debug\N2L1A1.pdb
