@@ -12,9 +12,29 @@ namespace N2L1A1
 {
     public partial class Form1 : Form
     {
+        List<Usuario> usuarios = new List<Usuario>();
         public Form1()
         {
             InitializeComponent();
+        }
+        public Form1(ref List<Usuario> userList)
+        {
+            usuarios = userList;
+            InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form2 form2 = new Form2(ref usuarios);
+            form2.Show();
+            this.Hide();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form3 form3 = new Form3(ref usuarios);
+            form3.Show();
+            this.Hide();
         }
     }
 }
