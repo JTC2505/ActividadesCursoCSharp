@@ -20,7 +20,32 @@
       "ProjectGuid": "a627523e-e788-4466-be59-104e817ff775",
       "DisplayName": "N1L4A1",
       "ColorIndex": 3
+    },
+    "9d00c427-c454-4434-ae35-1caf8e1f5e84": {
+      "ProjectGuid": "9d00c427-c454-4434-ae35-1caf8e1f5e84",
+      "DisplayName": "N2L1A1",
+      "ColorIndex": 4
+    },
+    "d1fe9d49-58f1-454c-9dc8-f85a4e677585": {
+      "ProjectGuid": "d1fe9d49-58f1-454c-9dc8-f85a4e677585",
+      "DisplayName": "N2L2A1",
+      "ColorIndex": 5
+    },
+    "c4ce224a-664c-49fd-904e-48bb8efdad39": {
+      "ProjectGuid": "c4ce224a-664c-49fd-904e-48bb8efdad39",
+      "DisplayName": "N2L3A1",
+      "ColorIndex": 6
+    },
+    "a6f1a66b-fff0-4773-b574-22ae3c586855": {
+      "ProjectGuid": "a6f1a66b-fff0-4773-b574-22ae3c586855",
+      "DisplayName": "N3L1A1",
+      "ColorIndex": 7
+    },
+    "7644b9c2-7941-4750-bab5-bad0f92cf0ba": {
+      "ProjectGuid": "7644b9c2-7941-4750-bab5-bad0f92cf0ba",
+      "DisplayName": "FinalProject",
+      "ColorIndex": 8
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 9
 }
