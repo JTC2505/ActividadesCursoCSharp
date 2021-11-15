@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="DBActividadesCursoCSharp" Class="ConexionUsuariosDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=LAPTOP-HG165ILN\SQLEXPRESS;Initial Catalog=DBActividadesCursoCSharp;Persist Security Info=True;User ID=sa" SettingsObjectName="N2L2A1.Properties.Settings" SettingsPropertyName="DBActividadesCursoCSharpConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Usuarios" Member="Usuarios">
+    <Type Name="Usuarios">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="nombre" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="apellido" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="email" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="sexo" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="usuario" Type="System.String" DbType="NVarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Column Name="password" Type="System.String" DbType="NVarChar(MAX) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Function Name="dbo.InsertarUsuario" Method="InsertarUsuario">
+    <Parameter Name="nombre" Type="System.String" DbType="NVarChar(MAX)" />
+    <Parameter Name="apellido" Type="System.String" DbType="NVarChar(MAX)" />
+    <Parameter Name="email" Type="System.String" DbType="NVarChar(MAX)" />
+    <Parameter Name="sexo" Type="System.String" DbType="NVarChar(MAX)" />
+    <Parameter Name="usuario" Type="System.String" DbType="NVarChar(MAX)" />
+    <Parameter Name="pass" Type="System.String" DbType="NVarChar(MAX)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.EliminarUsuario" Method="EliminarUsuario">
+    <Parameter Name="id" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.ActualizarUsuario" Method="ActualizarUsuario">
+    <Parameter Name="id" Type="System.Int32" DbType="Int" />
+    <Parameter Name="nombre" Type="System.String" DbType="NVarChar(MAX)" />
+    <Parameter Name="apellido" Type="System.String" DbType="NVarChar(MAX)" />
+    <Parameter Name="email" Type="System.String" DbType="NVarChar(MAX)" />
+    <Parameter Name="sexo" Type="System.String" DbType="NVarChar(MAX)" />
+    <Parameter Name="usuario" Type="System.String" DbType="NVarChar(MAX)" />
+    <Parameter Name="pass" Type="System.String" DbType="NVarChar(MAX)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.LeerUsuario" Method="LeerUsuario">
+    <ElementType Name="LeerUsuarioResult">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="nombre" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="apellido" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="email" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="sexo" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="usuario" Type="System.String" DbType="NVarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Column Name="password" Type="System.String" DbType="NVarChar(MAX) NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+</Database>

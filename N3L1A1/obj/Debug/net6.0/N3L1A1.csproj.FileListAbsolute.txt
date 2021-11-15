@@ -5,6 +5,7 @@ C:\Users\estua\source\repos\ActividadesCursoCSharp\N3L1A1\bin\Debug\net6.0\N3L1A
 C:\Users\estua\source\repos\ActividadesCursoCSharp\N3L1A1\bin\Debug\net6.0\ref\N3L1A1.dll
 C:\Users\estua\source\repos\ActividadesCursoCSharp\N3L1A1\bin\Debug\net6.0\N3L1A1.pdb
 C:\Users\estua\source\repos\ActividadesCursoCSharp\N3L1A1\obj\Debug\net6.0\N3L1A1.GlobalUsings.g.cs
+C:\Users\estua\source\repos\ActividadesCursoCSharp\N3L1A1\obj\Debug\net6.0\N3L1A1.csproj.AssemblyReference.cache
 C:\Users\estua\source\repos\ActividadesCursoCSharp\N3L1A1\obj\Debug\net6.0\N3L1A1.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\estua\source\repos\ActividadesCursoCSharp\N3L1A1\obj\Debug\net6.0\N3L1A1.AssemblyInfoInputs.cache
 C:\Users\estua\source\repos\ActividadesCursoCSharp\N3L1A1\obj\Debug\net6.0\N3L1A1.AssemblyInfo.cs
@@ -13,4 +14,3 @@ C:\Users\estua\source\repos\ActividadesCursoCSharp\N3L1A1\obj\Debug\net6.0\N3L1A
 C:\Users\estua\source\repos\ActividadesCursoCSharp\N3L1A1\obj\Debug\net6.0\ref\N3L1A1.dll
 C:\Users\estua\source\repos\ActividadesCursoCSharp\N3L1A1\obj\Debug\net6.0\N3L1A1.pdb
 C:\Users\estua\source\repos\ActividadesCursoCSharp\N3L1A1\obj\Debug\net6.0\N3L1A1.genruntimeconfig.cache
-C:\Users\estua\source\repos\ActividadesCursoCSharp\N3L1A1\obj\Debug\net6.0\N3L1A1.csproj.AssemblyReference.cache
